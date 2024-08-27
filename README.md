@@ -38,7 +38,7 @@ df.head(10)
 
 ### Interest over time
 
-![Interest Over Time](https://github.com/user-attachments/assets/328cd286-deee-4ea7-bb3e-63033f4ef8ce | width = 100)
+![Interest Over Time](https://github.com/user-attachments/assets/328cd286-deee-4ea7-bb3e-63033f4ef8ce| width = 100)
 
 ### Interest by region
 
