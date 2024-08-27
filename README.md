@@ -41,8 +41,6 @@ df.head(10)
 ![Interest Over Time](https://github.com/user-attachments/assets/328cd286-deee-4ea7-bb3e-63033f4ef8ce)
 
 
-<img src="C:/Users/ADMIN/Downloads/Google Search analysis/Interest Over Time.png" width="300">
-
 ### Interest by region
 
 Let's look at some of the most often used regional terms around the globe.
