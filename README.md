@@ -14,7 +14,7 @@ pip install pytrends
 
 Pandas must first be imported in order to generate a dataframe. The function TrendReq from the pytrends.request the library must be imported in order to connect to Google and request the Google trending topics. We will load matplotlib as well, in order to visualize the data.
 
-![Connect to Google](https://github.com/user-attachments/assets/dc2db23f-9e10-44e7-866d-2d282b78b7a3)
+![Connect to Google](https://github.com/user-attachments/assets/dc2db23f-9e10-44e7-866d-2d282b78b7a3 {width=400px height=400px} )
 
 `hl` represents the hosting language for accessing Google Trends, we set it to English. 
 `tz` represents timezone, we use the US time zone (represented in minutes), which is 360.
